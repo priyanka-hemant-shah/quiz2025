@@ -17,3 +17,10 @@ You may also see any lint errors in the console.
 ### Problem statement
 Create a Quiz Application where users can select a category, answer multiple-choice questions with a timer, and receive a final score based on their correct answers. The code should be clean, maintainable, and follow best practices.
 
+### Tasks completed
+1. UI of landing page, and questionaire
+2. Loading of questions based on category selection
+3. Quiz carousel navigation
+4. Timer logic based on time limit data in the json
+5. Scoring done but is pending and has errors
+
